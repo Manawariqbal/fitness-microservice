@@ -3,7 +3,7 @@ spring:
     name: activity-service
   data:
     mongodb:
-      uri: mongodb+srv://mmiqbalmanawar:Manawar%407861%401234@forpractice.y4o7g.mongodb.net/fitnessactivity
+      uri:your mongo db uri address
       database: fitnessactivity
 
 server:
