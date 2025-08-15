@@ -3,7 +3,7 @@ spring:
   name : aiservice
   data:
     mongodb:
-      uri: mongodb+srv://mmiqbalmanawar:Manawar%407861%401234@forpractice.y4o7g.mongodb.net/fitnessrecommendation
+      uri:
       database : fitnessrecommendation
 
 eureka:
